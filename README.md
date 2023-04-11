@@ -1,4 +1,4 @@
-## Olá, meu nome é <strong>{Erlon}!</strong>
+## Olá, meu nome é <strong>Erlon!</strong>
 
 > Cursando Ciência de Dados e Inteligência Artificial na UFPB!
 
