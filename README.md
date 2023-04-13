@@ -20,3 +20,4 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erlonl&show_icons=true)
+[![](https://visitcount.itsvg.in/api?id=erlonL&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
