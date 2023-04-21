@@ -1,4 +1,4 @@
-## Olá, meu nome é <strong>Erlon!</strong>
+<h1 align = "center"> Olá, meu nome é <strong>Erlon!</strong></h1>
 
 > Cursando Ciência de Dados e Inteligência Artificial na UFPB!
 
