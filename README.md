@@ -1,9 +1,8 @@
 <h1 align = "center"> Olá, meu nome é <strong>Erlon!</strong></h1>
 
 
-<h3 align = "center"> - Atualmente interessado em: </h3>
-  - **Composição tipográfica de documentos com Vim, Markdown e LaTeX**
-  - **Python e C**
+<h3 align = "center"> Atualmente interessado em Composição tipográfica de documentos, Python e C </h3>
+
 ----
 
 ## 🚀 Minhas Skills
