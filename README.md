@@ -1,9 +1,9 @@
 <h1 align = "center"> Olá, meu nome é <strong>Erlon!</strong></h1>
 
-> Cursando Ciência de Dados e Inteligência Artificial na UFPB!
 
-💬 Aprendendo algo novo todos os dias!
-
+- Atualmente interessado em: 
+  - **Composição tipográfica de documentos com Vim, Markdown e LaTeX**
+  - **Python e C**
 ----
 
 ## 🚀 Minhas Skills
