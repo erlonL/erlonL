@@ -3,6 +3,9 @@
 
 <h3 align = "center"> Atualmente interessado em Vim, Markdown, LaTeX, Python e C! </h3>
 
+- LaTeX para composição tipográfica de Documentos;
+- Vim e Markdown para anotações;
+- Python para análise de dados.
 ----
 
 ## 🚀 Minhas Skills
