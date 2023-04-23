@@ -1,4 +1,4 @@
-<h1 style = "align: center; font-family: Geneva;"> Olá ✌️, meu nome é Erlon!</h1>
+<h1 align: "center"> Olá ✌️, meu nome é Erlon!</h1>
 
 
 <h3 align = "center"> Atualmente interessado em Vim, Markdown, LaTeX, Python e C! </h3>
