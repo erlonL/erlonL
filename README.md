@@ -3,9 +3,9 @@
 
 <h3 align = "center"> Atualmente interessado em Vim, Markdown, LaTeX, Python e C! </h3>
 
-- <b style = "background-color: #071E22; color: ADCAEB; align: middle; "> <b style = "color: #008080";>LaTeX</b> para composição tipográfica de Documentos;</b>
-- <b style = "background-color: #071E22; color: ADCAEB; vertical-align: middle;"> <b style = "color: #019833";>Vim</b> e <b style = "color: White">Markdown</b> para anotações;</b>
-- <b style = "background-color: #071E22; color: ADCAEB; vertical-align: middle;"> <b style = "color: #FBD165";>Python</b> para análise de dados.</b>
+- LaTeX para composição tipográfica de Documentos;
+- Vim e Markdown para anotações;
+- Python para análise de dados.
 ----
 
 ## 🚀 Minhas Skills
