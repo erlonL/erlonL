@@ -1,5 +1,5 @@
 <h1 align= "center"> Olá ✌️, meu nome é Erlon!</h1>
-
+![image](readme.svg)
 
 <h3 align = "center"> Atualmente interessado em Vim, Markdown, LaTeX, Python e C! </h3>
 
@@ -27,3 +27,7 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=erlonL&label=Profile%20Views&pretty=false" />
 </a>
+
+<div style="width: 100%;">
+  <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
+</div>
