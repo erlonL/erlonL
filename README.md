@@ -1,7 +1,6 @@
 <h1 align= "center"> Olá ✌️, meu nome é Erlon!</h1>
-![image](readme.svg)
 <div style="width: 100%;">
-  <img src="readme.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="readme.svg" style="width: 100%;" alt="svg">
 </div>
 
 <h3 align = "center"> Atualmente interessado em Vim, Markdown, LaTeX, Python e C! </h3>
