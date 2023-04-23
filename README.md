@@ -1,4 +1,3 @@
-<h1 align= "center"> Olá ✌️, meu nome é Erlon!</h1>
 <div style="width: 100%;">
   <img src="readme.svg" style="width: 100%;" alt="svg">
 </div>
