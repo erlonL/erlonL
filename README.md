@@ -25,6 +25,10 @@
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erlonl&show_icons=true)
 
+<a href="https://github-profile-summary-cards.vercel.app">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erlonL&theme=algolia" />
+</a>
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=erlonL&label=Profile%20Views&pretty=false" />
 </a>
