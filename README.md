@@ -2,11 +2,16 @@
   <img src="readme.svg" style="width: 100%;" alt="svg">
 </div>
 
-<h3 align = "center"> Atualmente interessado em Vim, Markdown, LaTeX, Python e C! </h3>
+
+
+<details>
+<summary><h3 align = "center"> Atualmente interessado em Vim, Markdown, LaTeX, Python e C! </h3></summary>
 
 - LaTeX para composição tipográfica de Documentos;
 - Vim e Markdown para anotações;
 - Python para análise de dados.
+</details>
+
 ----
 
 ## 🚀 Minhas Skills
