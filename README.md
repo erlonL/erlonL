@@ -1,5 +1,5 @@
-<div style="width: 100%;">
-  <img src="readme.svg" style="width: 100%;" alt="svg">
+<div style="width: 50%;">
+  <img src="readme.svg" style="width: 50%;" alt="svg">
 </div>
 
 
