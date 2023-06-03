@@ -1,16 +1,24 @@
-<div style="width: 50%; align: center;">
-  <img src="readme.svg" style="width: 50%;" alt="svg">
-</div>
+<h1>Olá!</h1>
 
+<h2> 🤓 Sobre mim </h2>
 
-
+  
+- 🤖 Atualmente cursando Ciência de Dados e IA na [UFPB](http://ci.ufpb.br/).
+  
 <details>
-<summary><h3 align = "center"> Atualmente interessado em Vim, Markdown, LaTeX, Python e C! </h3></summary>
+<summary> 📖 Entusiasta em Vim, Markdown, LaTeX, Python e C!</summary>
+  
+- 🐦 LaTeX para composição tipográfica de Documentos;
+- 📓 Vim e Markdown para anotações;
+- 🐍 Python para análise de dados.
+  
+</details>  
+  
+- 🧑‍🔬 Não só limitado a essas tecnologias, mas aprendendo diariamente.
+- 🎓 Pretendo seguir carreira na área de <b>CDIA.</b>
 
-- LaTeX para composição tipográfica de Documentos;
-- Vim e Markdown para anotações;
-- Python para análise de dados.
-</details>
+  
+
 
 ----
 
