@@ -1,4 +1,4 @@
-<div style="width: 50%;">
+<div style="width: 50%; align: center;">
   <img src="readme.svg" style="width: 50%;" alt="svg">
 </div>
 
