@@ -10,16 +10,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=ProjetoCUCA)](https://github.com/erlonL/ProjetoCUCA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=Projeto-ICD)](https://github.com/erlonL/Projeto-ICD)
   
-<details>
-<summary> 📖 Entusiasta em Vim, Markdown, LaTeX, Python e C!</summary>
-  
-- 🐦 LaTeX para composição tipográfica de Documentos;
-- 📓 Vim e Markdown para anotações;
-- 🐍 Python para análise de dados.
-  
-</details>  
-  
-- 🧑‍🔬 Não só limitado a essas tecnologias, mas aprendendo diariamente.
 - 🎓 Pretendo seguir carreira na área de <b>CDIA.</b>
 
 ----
