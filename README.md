@@ -4,6 +4,11 @@
 
 - 🖼️ [Olá 👋, meu nome é Erlon!](https://github.com/erlonL/erlonL/blob/main/readme.svg)
 - 🤖 Atualmente cursando Ciência de Dados e IA na [UFPB](http://ci.ufpb.br/).
+
+<h2>Projetos</h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=ProjetoCUCA)](https://github.com/erlonL/ProjetoCUCA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=Projeto-ICD)](https://github.com/erlonL/Projeto-ICD)
   
 <details>
 <summary> 📖 Entusiasta em Vim, Markdown, LaTeX, Python e C!</summary>
@@ -17,12 +22,9 @@
 - 🧑‍🔬 Não só limitado a essas tecnologias, mas aprendendo diariamente.
 - 🎓 Pretendo seguir carreira na área de <b>CDIA.</b>
 
-  
-
-
 ----
 
-## Languages and Tools
+## Linguagens e Ferramentas
 ![My Skills](https://skills.thijs.gg/icons?i=python,selenium,c,html,css,latex,md,vscode,bash,vim,git,github&theme=light)
 
 ---
