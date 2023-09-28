@@ -1,14 +1,26 @@
-<h1>Olá! 👋</h1>
+<div>
+	<br>
+		<img src="readme.svg" width="800" height="120">
+	<br>
+</div>
 
 <h2> 🤓 Sobre mim </h2>
 
-- 🖼️ [Olá 👋, meu nome é Erlon!](https://github.com/erlonL/erlonL/blob/main/readme.svg)
 - 🤖 Atualmente cursando Ciência de Dados e IA na [UFPB](http://ci.ufpb.br/).
 
 <h2>Projetos</h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=ProjetoCUCA)](https://github.com/erlonL/ProjetoCUCA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=Projeto-ICD)](https://github.com/erlonL/Projeto-ICD)
+<div style="display: flex">
+    <div>
+        <a href="https://github.com/erlonL/ProjetoCUCA">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=ProjetoCUCA" height=auto>
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/erlonL/Projeto-ICD">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=Projeto-ICD" height=auto>
+        </a>
+    </div>
+</div>
   
 - 🎓 Pretendo seguir carreira na área de <b>CDIA.</b>
 
