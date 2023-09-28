@@ -27,7 +27,8 @@
 ----
 
 ## Linguagens e Ferramentas
-![My Skills](https://skills.thijs.gg/icons?i=python,selenium,c,html,css,latex,md,vscode,bash,vim,git,github&theme=light)
+![Languages](https://skills.thijs.gg/icons?i=python,c,cpp,bash&theme=light)
+![Other](https://skills.thijs.gg/icons?i=pandas,numpy,selenium,html,css,latex,md,vim,git&theme=light)
 
 ---
 
