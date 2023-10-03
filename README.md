@@ -7,6 +7,7 @@
 <h2> 🤓 Sobre mim </h2>
 
 - 🤖 Atualmente cursando Ciência de Dados e IA na [UFPB](http://ci.ufpb.br/).
+- 🎓 Pretendo seguir carreira na área de <b>CDIA.</b>
 
 <h2>Projetos</h2>
 <div style="display: flex">
@@ -22,8 +23,6 @@
     </div>
 </div>
   
-- 🎓 Pretendo seguir carreira na área de <b>CDIA.</b>
-
 ----
 
 ## Linguagens e Ferramentas
