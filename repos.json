@@ -28,5 +28,11 @@
         "img": "",
         "description": "Tarefa 2 para a disciplina de Estrutura de Dados! ",
         "link": "https://github.com/erlonL/AtividadeHash"
+    },
+    {
+        "title": "EFA04-ALC",
+        "img": "",
+        "description": "Códigos auxiliares para a EFA 04 ",
+        "link": "https://github.com/erlonL/EFA04-ALC"
     }
 ]
