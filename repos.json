@@ -1,0 +1,32 @@
+[
+    {
+        "title": "ProjetoCUCA",
+        "img": "https://raw.githubusercontent.com/erlonL/ProjetoCUCA/main/media/capa-cuca-full.jpg",
+        "description": "Alocação de turmas escrito em C, feito para a disciplina de **Programação Estruturada**",
+        "link": "https://github.com/erlonL/ProjetoCUCA"
+    },
+    {
+        "title": "Projeto-ICD",
+        "img": "https://raw.githubusercontent.com/erlonL/Projeto-ICD/main/media/capa-heartdisease.png",
+        "description": "Projeto ICD ou Heart Disease Key Indicators é um projeto de análise de dados para a disciplina de **Introdução à Ciência de Dados**",
+        "link": "https://github.com/erlonL/Projeto-ICD"
+    },
+    {
+        "title": "SessaodaTarde",
+        "img": "https://s2.glbimg.com/1WGjO9_UndnilhP_NLFY6VHQUMg=/e.glbimg.com/og/ed/f/original/2020/11/18/image_VfQTfjq.png",
+        "description": "Análise de Dados - Sessão da Tarde",
+        "link": "https://github.com/erlonL/SessaodaTarde"
+    },
+    {
+        "title": "ControleDeLotes",
+        "img": "https://raw.githubusercontent.com/erlonL/ControleDeLotes/main/media/main-page.png",
+        "description": "Aplicação gráfica de um sistema de gerenciamento de lotes de um condomínio.",
+        "link": "https://github.com/erlonL/ControleDeLotes"
+    },
+    {
+        "title": "AtividadeHash",
+        "img": "",
+        "description": "Tarefa 2 para a disciplina de Estrutura de Dados! ",
+        "link": "https://github.com/erlonL/AtividadeHash"
+    }
+]
