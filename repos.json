@@ -18,16 +18,16 @@
         "link": "https://github.com/erlonL/SessaodaTarde"
     },
     {
-        "title": "ControleDeLotes",
-        "img": "https://raw.githubusercontent.com/erlonL/ControleDeLotes/main/media/main-page.png",
-        "description": "Aplicação gráfica de um sistema de gerenciamento de lotes de um condomínio.",
-        "link": "https://github.com/erlonL/ControleDeLotes"
-    },
-    {
         "title": "AtividadeHash",
         "img": "https://opengraph.githubassets.com/e9a8d67ca68cc1cd0e10cff095b2f327e1ed1345acf012e3fed6c8dfbd511a22/erlonL/AtividadeHash",
         "description": "Tarefa 2 para a disciplina de Estrutura de Dados! ",
         "link": "https://github.com/erlonL/AtividadeHash"
+    },
+    {
+        "title": "ControleDeLotes",
+        "img": "https://raw.githubusercontent.com/erlonL/ControleDeLotes/main/media/main-page.png",
+        "description": "Aplicação gráfica de um sistema de gerenciamento de lotes de um condomínio.",
+        "link": "https://github.com/erlonL/ControleDeLotes"
     },
     {
         "title": "EFA04-ALC",
