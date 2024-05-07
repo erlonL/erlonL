@@ -23,11 +23,11 @@
     <a href = "https://github.com/erlonL/SessaodaTarde">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=SessaodaTarde" width=300>
     </a>
-    <a href = "https://github.com/erlonL/ControleDeLotes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=ControleDeLotes" width=300>
+    <a href = "https://github.com/erlonL/BranchNBound">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=BranchNBound" width=300>
     </a>
-    <a href = "https://github.com/erlonL/CUCApp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=CUCApp" width=300>
+    <a href = "https://github.com/erlonL/ProjetoBD-I">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=ProjetoBD-I'" width=300>
     </a>
 </div>
   
