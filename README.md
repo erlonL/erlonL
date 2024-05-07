@@ -27,7 +27,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=BranchNBound" width=300>
     </a>
     <a href = "https://github.com/erlonL/ProjetoBD-I">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=ProjetoBD-I'" width=300>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=ProjetoBD-I" width=300>
     </a>
 </div>
   
