@@ -10,7 +10,7 @@
 - 🎓 Pretendo seguir carreira na área de <b>CDIA.</b>
 
 <h2>Projetos</h2>
-<div style="display: block">
+<div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem;">
     <a href = "https://github.com/erlonL/summaraizer">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=summaraizer" width=300>
     </a>
@@ -29,6 +29,13 @@
     <a href = "https://github.com/erlonL/ProjetoBD-I">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=ProjetoBD-I" width=300>
     </a>
+    <a href = "https://github.com/mariabandeira/Projeto_Final_IIA">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariabandeira&repo=Projeto_Final_IIA" width=300>
+    </a>
+    <a href = "https://github.com/erlonL/testes-inferencia">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=testes-inferencia" width=300>
+    </a>
+	
 </div>
   
 ----
