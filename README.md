@@ -10,30 +10,30 @@
 - 🎓 Pretendo seguir carreira na área de <b>CDIA.</b>
 
 <h2>Projetos</h2>
-<div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem;">
-    <a href = "https://github.com/erlonL/summaraizer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=summaraizer" width=300>
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; align-items: center;">
+    <a href = "https://github.com/erlonL/summaraizer" width=300>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=summaraizer" object-fit= "fill">
     </a>
-    <a href="https://github.com/erlonL/ProjetoCUCA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=ProjetoCUCA" width=300>
+    <a href="https://github.com/erlonL/ProjetoCUCA" width=300>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=ProjetoCUCA" object-fit= "fill">
     </a>
-    <a href="https://github.com/erlonL/Projeto-ICD">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=Projeto-ICD" width=300>
+    <a href="https://github.com/erlonL/Projeto-ICD" width=300>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=Projeto-ICD" object-fit= "fill">
     </a>
-    <a href = "https://github.com/erlonL/SessaodaTarde">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=SessaodaTarde" width=300>
+    <a href = "https://github.com/erlonL/SessaodaTarde" width=300>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=SessaodaTarde" object-fit= "fill">
     </a>
-    <a href = "https://github.com/erlonL/BranchNBound">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=BranchNBound" width=300>
+    <a href = "https://github.com/erlonL/BranchNBound" width=300>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=BranchNBound" object-fit= "fill">
     </a>
-    <a href = "https://github.com/erlonL/ProjetoBD-I">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=ProjetoBD-I" width=300>
+    <a href = "https://github.com/erlonL/ProjetoBD-I" width=300>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=ProjetoBD-I" object-fit= "fill">
     </a>
-    <a href = "https://github.com/mariabandeira/Projeto_Final_IIA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariabandeira&repo=Projeto_Final_IIA" width=300>
+    <a href = "https://github.com/mariabandeira/Projeto_Final_IIA" width=300>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariabandeira&repo=Projeto_Final_IIA" object-fit= "fill">
     </a>
-    <a href = "https://github.com/erlonL/testes-inferencia">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=testes-inferencia" width=300>
+    <a href = "https://github.com/erlonL/testes-inferencia" width=300>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=testes-inferencia" object-fit= "fill">
     </a>
 	
 </div>
@@ -46,6 +46,10 @@
 ![Web Stack](https://skills.thijs.gg/icons?i=nodejs,express,javascript,typescript,prisma,mysql&theme=light)
 
 ![Other](https://skills.thijs.gg/icons?i=selenium,html,css,latex,md,vim,git,github&theme=light)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erlonl&langs_count=8&size_weight=0.1&count_weight=0.9)
 
 ---
 
