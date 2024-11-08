@@ -6,31 +6,40 @@
 
 <h2> 🤓 Sobre mim </h2>
 
-- 🤖 Atualmente cursando Ciência de Dados e IA na [UFPB](http://ci.ufpb.br/).
-- 🎓 Pretendo seguir carreira na área de <b>CDIA.</b>
+- 🤖 Atualmente cursando **Ciência de Dados e Inteligência Artificial**.
+- 🔬 Faço parte do Laboratório **TRIL**, onde desenvolvo projetos com IA Generativa e Data Science.
+- 🔵 Atuo como membro estudante na **TAIL**, a maior liga acadêmica de Inteligência Artificial da Paraíba, onde desenvolvi diversos projetos nas áreas de Natural Language Processing (NLP), Computer Vision (CV) e atualmente Large Language Models.  
+
+<h2> 📚 Áreas de Interesse </h2>  
+
+- Data Science (Análise e Engenharia)
+- Machine Learning
+- Large Language Models
+- Natural Language Processing (NLP)
+- Backend (NodeJS)
 
 <h2>Projetos</h2>
 <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; align-items: center;">
     <a href = "https://github.com/erlonL/summaraizer" width=300>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=summaraizer" object-fit= "fill">
     </a>
-    <a href="https://github.com/erlonL/ProjetoCUCA" width=300>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=ProjetoCUCA" object-fit= "fill">
-    </a>
     <a href="https://github.com/erlonL/Projeto-ICD" width=300>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=Projeto-ICD" object-fit= "fill">
-    </a>
-    <a href = "https://github.com/erlonL/SessaodaTarde" width=300>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=SessaodaTarde" object-fit= "fill">
-    </a>
-    <a href = "https://github.com/erlonL/BranchNBound" width=300>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=BranchNBound" object-fit= "fill">
     </a>
     <a href = "https://github.com/erlonL/ProjetoBD-I" width=300>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=ProjetoBD-I" object-fit= "fill">
     </a>
-    <a href = "https://github.com/mariabandeira/Projeto_Final_IIA" width=300>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariabandeira&repo=Projeto_Final_IIA" object-fit= "fill">
+    <a href="https://github.com/erlonL/ProjetoCUCA" width=300>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=ProjetoCUCA" object-fit= "fill">
+    </a>
+    <a href = "https://github.com/erlonL/SessaodaTarde" width=300>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=SessaodaTarde" object-fit= "fill">
+    </a>
+    <a href = "https://github.com/mariabandeira/SAEB_Classificador" width=300>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mariabandeira&repo=SAEB_Classificador" object-fit= "fill">
+    </a>
+    <a href = "https://github.com/erlonL/series-temporais" width=300>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonL&repo=series-temporais" object-fit= "fill">
     </a>
     <a href = "https://github.com/erlonL/testes-inferencia" width=300>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlonl&repo=testes-inferencia" object-fit= "fill">
