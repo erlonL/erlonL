@@ -17,11 +17,14 @@
 [https://www.linkedin.com/in/erlon-lacerda-01020a25a/](https://www.linkedin.com/in/erlon-lacerda-01020a25a/)
 <h2> 📚 Áreas de Interesse </h2>  
 
-- Data Science (Análise e Engenharia)
+- Software Engineering
+- Data Science (+ Engineering + Analysis)
+- Backend (FastAPI, Flask, NodeJS)
+- Natural Language Processing (Pytorch)
 - Machine Learning
+- ETL Pipelines
+- Data Quality
 - Large Language Models
-- Natural Language Processing (NLP)
-- Backend (NodeJS)
   
 ----
 
