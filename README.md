@@ -1,6 +1,6 @@
 <h2> About.me </h2>
   
-- Currently working as an **Intern** at Zoox Smart Data.  
+- Currently working as a **Data Analyst I** at Zoox Smart Data.  
 - I love doing **Data Science and AI** projects as an undergrad myself.  
 - Tinkering personal **engineering** projects on my free time.  
 - Also submitting a **Natural Language Processing / Data Mining** article :).  
