@@ -12,7 +12,7 @@
 
   - **Co-author of research** involving **CO₂ clustering and geospatial analysis** and **mental health and GPT usage among college students**.
 
-  - Author of an **Applied NLP paper accepted at SSBD 2026**.
+  - Author of an **Applied NLP paper accepted at SBBD 2026**.
 
 ### Core Areas
 
