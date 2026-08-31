@@ -1,6 +1,6 @@
 ## Hi, I'm Erlon Avelino
 
-- <img src="chart-line.svg" alt="" width="18" height="18"> **Data Science & Artificial Intelligence undergraduate**, working across **Data Analysis, Data Engineering, Applied AI, and Software Engineering**.
+- <img src="chart-line.svg" alt="" width="18" height="18"> **Data Science & Artificial Intelligence graduate**, working across **Data Analysis, Data Engineering, Applied AI, and Software Engineering**.
 
 - <img src="zoox.jpeg" alt="" width="20" height="20"> **Data Analyst I @ Zoox Smart Data**
 
