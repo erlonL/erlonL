@@ -44,5 +44,7 @@
 - 🚗 [unicarona-ci](https://erlonL.github.io/unicarona-ci) - A carpooling-focused project with an academic/community context.   
 - 💸 [racha-uber-ci](https://erlonL.github.io/racha-uber-ci) - A cost-splitting app concept for shared Uber rides.
 - 🍪 [cookie](https://erlonL.github.io/cookie) - A small web project focused on a playful cookie-themed experience.   
-- 🤝 [comunidados-landing](https://erlonL.github.io/comunidados-landing) - A landing page project for the Comunidados initiative.   
+- 🤝 [comunidados-landing](https://erlonL.github.io/comunidados-landing) - A landing page project for the Comunidados initiative.
+- 🌈 [SessaodaTarde](https://erlonl.github.io/SessaodaTarde/) -
+- 🚍 [Cadê o Ônibus?](https://erlonl.github.io/previsao-onibus/) - 
 - ✨ [summaraizer](https://erlonL.github.io/summaraizer) - An AI summarization tool designed to condense long texts quickly.   
