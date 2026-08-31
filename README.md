@@ -45,6 +45,6 @@
 - 💸 [racha-uber-ci](https://erlonL.github.io/racha-uber-ci) - A cost-splitting app concept for shared Uber rides.
 - 🍪 [cookie](https://erlonL.github.io/cookie) - A small web project focused on a playful cookie-themed experience.   
 - 🤝 [comunidados-landing](https://erlonL.github.io/comunidados-landing) - A landing page project for the Comunidados initiative.
-- 🌈 [SessaodaTarde](https://erlonl.github.io/SessaodaTarde/) -
-- 🚍 [Cadê o Ônibus?](https://erlonl.github.io/previsao-onibus/) - 
+- 🌈 [SessaodaTarde](https://erlonl.github.io/SessaodaTarde/) - A data analysis project focused on movies from the Sessão da Tarde catalog.  
+- 🚍 [Cadê o Ônibus?](https://erlonl.github.io/previsao-onibus/) - A public transit app for checking bus arrival forecasts.  
 - ✨ [summaraizer](https://erlonL.github.io/summaraizer) - An AI summarization tool designed to condense long texts quickly.   
