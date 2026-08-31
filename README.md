@@ -40,7 +40,7 @@
 - 🎬 [cinemAnalyzer](https://erlonL.github.io/cinemAnalyzer) - A movie analysis project exploring cinema data and trends.   
 - 📸 [photo-collection](https://erlonL.github.io/photo-collection) - A visual gallery project for organizing and displaying photos.   
 - 📸 [my-3d-collection](https://erlonL.github.io/my-3d-collection) - A 3D photo album you can feel.   
-- 📊 [dataviz](https://erlonL.github.io/dataviz) - A data visualization project with interactive charts and exploratory views.   
+- 📊 [dataviz](https://erlonL.github.io/dataviz) - A data visualization project with pretty charts and exploratory views.   
 - 🚗 [unicarona-ci](https://erlonL.github.io/unicarona-ci) - A carpooling-focused project with an academic/community context.   
 - 💸 [racha-uber-ci](https://erlonL.github.io/racha-uber-ci) - A cost-splitting app concept for shared Uber rides.
 - 🍪 [cookie](https://erlonL.github.io/cookie) - A small web project focused on a playful cookie-themed experience.   
