@@ -16,11 +16,43 @@ Bachelor's degree in Data Science & Artificial Intelligence (UFPB) and very inte
   - Author of [Além das Palavras: Detectando Técnicas Persuasivas em Notícias e Artigos de Opinião da Língua Portuguesa com BERT-Tiny](https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/44115/43878)
 
 ### Core Areas
-- **Languages:** Python, JavaScript, TypeScript  
-- **Web & Full-Stack Development:** Vue.js, React, FastAPI, Node.js, REST APIs, HTML/CSS, responsive web development  
-- **Data Science & AI:** Pandas, data analysis, data visualization, machine learning, deep learning, NLP, Transformers, Hugging Face, PyTorch  
-- **Data Engineering & Databases:** ETL/data pipelines, web scraping, data extraction, data processing, MySQL, relational databases  
-- **Software Engineering & DevOps:** Git, GitHub, Docker, GitHub Actions, CI/CD, automated testing, modular architecture, API integration  
+**Languages**  
+<p align="left" aria-label="Languages: Python, JavaScript, TypeScript">
+  <img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" width="42" height="42" />
+</p>
+
+**Web & Full-Stack Development**  
+<p align="left" aria-label="Web and Full-Stack Development: Vue.js, React, FastAPI, Node.js, REST APIs, HTML/CSS, responsive web development">
+  <img src="https://cdn.simpleicons.org/vuedotjs" alt="Vue.js" title="Vue.js" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/react" alt="React" title="React" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" title="FastAPI" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML" title="HTML" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/css" alt="CSS" title="CSS" width="42" height="42" />
+</p>
+
+**Data Science & AI**  
+<p align="left" aria-label="Data Science and AI: Pandas, data analysis, data visualization, machine learning, deep learning, NLP, Transformers, Hugging Face, PyTorch">
+  <img src="https://cdn.simpleicons.org/pandas" alt="Pandas" title="Pandas" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" title="PyTorch" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFCC4D" alt="Hugging Face" title="Hugging Face" width="42" height="42" />
+</p>
+
+**Data Engineering & Databases**  
+<p align="left" aria-label="Data Engineering and Databases: ETL/data pipelines, web scraping, data extraction, data processing, MySQL, relational databases">
+  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/postgresql" alt="Relational Databases" title="Relational Databases" width="42" height="42" />
+</p>
+
+**Software Engineering & DevOps**  
+<p align="left" aria-label="Software Engineering and DevOps: Git, GitHub, Docker, GitHub Actions, CI/CD, automated testing, modular architecture, API integration">
+  <img src="https://cdn.simpleicons.org/git" alt="Git" title="Git" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/github" alt="GitHub" title="GitHub" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" title="GitHub Actions" width="42" height="42" />
+</p>
 
 ### Links
 🌐 **[Personal Website](https://erlonl.github.io/)**  
