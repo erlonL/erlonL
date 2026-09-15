@@ -34,24 +34,39 @@ Bachelor's degree in Data Science & Artificial Intelligence (UFPB) and very inte
 </p>
 
 **Data Science & AI**  
-<p align="left" aria-label="Data Science and AI: Pandas, data analysis, data visualization, machine learning, deep learning, NLP, Transformers, Hugging Face, PyTorch">
+<p align="left" aria-label="Data Science and AI: Pandas, Seaborn, scikit-learn, data analysis, data visualization, machine learning, deep learning, NLP, Transformers, Hugging Face, PyTorch">
   <img src="https://cdn.simpleicons.org/pandas" alt="Pandas" title="Pandas" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/seaborn" alt="Seaborn" title="Seaborn" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" title="scikit-learn" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" title="PyTorch" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/huggingface/FFCC4D" alt="Hugging Face" title="Hugging Face" width="42" height="42" />
 </p>
 
 **Data Engineering & Databases**  
-<p align="left" aria-label="Data Engineering and Databases: ETL/data pipelines, web scraping, data extraction, data processing, MySQL, relational databases">
+<p align="left" aria-label="Data Engineering and Databases: ETL/data pipelines, web scraping, data extraction, data processing, MySQL, PostgreSQL, MongoDB, Redis, DuckDB, relational databases">
   <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/postgresql" alt="Relational Databases" title="Relational Databases" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" title="MongoDB" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/redis" alt="Redis" title="Redis" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/duckdb" alt="DuckDB" title="DuckDB" width="42" height="42" />
 </p>
 
 **Software Engineering & DevOps**  
-<p align="left" aria-label="Software Engineering and DevOps: Git, GitHub, Docker, GitHub Actions, CI/CD, automated testing, modular architecture, API integration">
+<p align="left" aria-label="Software Engineering and DevOps: Git, GitHub, Docker, GitHub Actions, CI/CD, automated testing, Jest, pytest, modular architecture, API integration">
   <img src="https://cdn.simpleicons.org/git" alt="Git" title="Git" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/github" alt="GitHub" title="GitHub" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" title="GitHub Actions" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/jest" alt="Jest" title="Jest" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/pytest" alt="pytest" title="pytest" width="42" height="42" />
+</p>
+
+**AI Agents & LLM**  
+<p align="left" aria-label="AI Agents and LLM: CrewAI, Agno, LangChain, LangGraph">
+  <img src="https://cdn.simpleicons.org/crewai" alt="CrewAI" title="CrewAI" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/agno" alt="Agno" title="Agno" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" title="LangChain" width="42" height="42" />
+  <img src="https://cdn.simpleicons.org/langgraph" alt="LangGraph" title="LangGraph" width="42" height="42" />
 </p>
 
 ### Links
