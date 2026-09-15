@@ -16,58 +16,84 @@ Bachelor's degree in Data Science & Artificial Intelligence (UFPB) and very inte
   - Author of [Além das Palavras: Detectando Técnicas Persuasivas em Notícias e Artigos de Opinião da Língua Portuguesa com BERT-Tiny](https://sol.sbc.org.br/index.php/sbbd_estendido/article/view/44115/43878)
 
 ### Core Areas
-**Languages**  
-<p align="left" aria-label="Languages: Python, JavaScript, TypeScript">
-  <img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" width="42" height="42" />
-</p>
-
-**Web & Full-Stack Development**  
-<p align="left" aria-label="Web and Full-Stack Development: Vue.js, React, FastAPI, Node.js, REST APIs, HTML/CSS, responsive web development">
-  <img src="https://cdn.simpleicons.org/vuedotjs" alt="Vue.js" title="Vue.js" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/react" alt="React" title="React" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" title="FastAPI" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/html5" alt="HTML" title="HTML" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/css" alt="CSS" title="CSS" width="42" height="42" />
-</p>
-
-**Data Science & AI**  
-<p align="left" aria-label="Data Science and AI: Pandas, Seaborn, scikit-learn, data analysis, data visualization, machine learning, deep learning, NLP, Transformers, Hugging Face, PyTorch">
-  <img src="https://cdn.simpleicons.org/pandas" alt="Pandas" title="Pandas" width="42" height="42" />
-  <img src="https://github.com/user-attachments/assets/6abf628d-57f3-422c-bb25-65b4e5ab4631" alt="Seaborn" title="Seaborn" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" title="scikit-learn" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" title="PyTorch" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/huggingface/FFCC4D" alt="Hugging Face" title="Hugging Face" width="42" height="42" />
-</p>
-
-**Data Engineering & Databases**  
-<p align="left" aria-label="Data Engineering and Databases: ETL/data pipelines, web scraping, data extraction, data processing, MySQL, PostgreSQL, MongoDB, Redis, DuckDB, relational databases">
-  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" title="MongoDB" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/redis" alt="Redis" title="Redis" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/duckdb" alt="DuckDB" title="DuckDB" width="42" height="42" />
-</p>
-
-**Software Engineering & DevOps**  
-<p align="left" aria-label="Software Engineering and DevOps: Git, GitHub, Docker, GitHub Actions, CI/CD, automated testing, Jest, pytest, modular architecture, API integration">
-  <img src="https://cdn.simpleicons.org/git" alt="Git" title="Git" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/github" alt="GitHub" title="GitHub" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" title="GitHub Actions" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/jest" alt="Jest" title="Jest" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/pytest" alt="pytest" title="pytest" width="42" height="42" />
-</p>
-
-**AI Agents & LLM**  
-<p align="left" aria-label="AI Agents and LLM: CrewAI, Agno, LangChain, LangGraph">
-  <img src="https://cdn.simpleicons.org/crewai" alt="CrewAI" title="CrewAI" width="42" height="42" />
-  <img src="https://github.com/user-attachments/assets/dee3f6dc-962b-4417-9b3b-ec780aba30c0" alt="Agno" title="Agno" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" title="LangChain" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/langgraph" alt="LangGraph" title="LangGraph" width="42" height="42" />
-</p>
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td aria-label="Languages: Python, JavaScript, TypeScript, Go, Rust">
+  <img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/go" alt="Go" title="Go" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/rust" alt="Rust" title="Rust" width="32" height="32" />
+</td>
+</tr>
+<tr>
+<td><b>Web & Full-Stack</b></td>
+<td aria-label="Web and Full-Stack Development: Vue.js, React, FastAPI, Flask, Node.js, Express, REST APIs, HTML/CSS, responsive web development">
+  <img src="https://cdn.simpleicons.org/vuedotjs" alt="Vue.js" title="Vue.js" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/react" alt="React" title="React" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" title="FastAPI" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/flask" alt="Flask" title="Flask" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/express" alt="Express" title="Express" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML" title="HTML" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/css" alt="CSS" title="CSS" width="32" height="32" />
+</td>
+</tr>
+<tr>
+<td><b>Data Science & AI</b></td>
+<td aria-label="Data Science and AI: Pandas, Seaborn, scikit-learn, data analysis, data visualization, machine learning, deep learning, NLP, Transformers, Hugging Face, PyTorch, Streamlit">
+  <img src="https://cdn.simpleicons.org/pandas" alt="Pandas" title="Pandas" width="32" height="32" />
+  <img src="https://github.com/user-attachments/assets/6abf628d-57f3-422c-bb25-65b4e5ab4631" alt="Seaborn" title="Seaborn" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" title="scikit-learn" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" title="PyTorch" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFCC4D" alt="Hugging Face" title="Hugging Face" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" title="Streamlit" width="32" height="32" />
+</td>
+</tr>
+<tr>
+<td><b>Data Engineering & DBs</b></td>
+<td aria-label="Data Engineering and Databases: ETL/data pipelines, Airflow, web scraping, data extraction, data processing, MySQL, PostgreSQL, MongoDB, Redis, DuckDB, relational databases">
+  <img src="https://cdn.simpleicons.org/apacheairflow" alt="Airflow" title="Airflow" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" title="MongoDB" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/redis" alt="Redis" title="Redis" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/duckdb" alt="DuckDB" title="DuckDB" width="32" height="32" />
+</td>
+</tr>
+<tr>
+<td><b>Software Eng & DevOps</b></td>
+<td aria-label="Software Engineering and DevOps: Git, GitHub, Docker, GitHub Actions, CI/CD, automated testing, Jest, pytest, modular architecture, API integration">
+  <img src="https://cdn.simpleicons.org/git" alt="Git" title="Git" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/github" alt="GitHub" title="GitHub" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" title="GitHub Actions" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/jest" alt="Jest" title="Jest" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/pytest" alt="pytest" title="pytest" width="32" height="32" />
+</td>
+</tr>
+<tr>
+<td><b>AI Agents & LLM</b></td>
+<td aria-label="AI Agents and LLM: CrewAI, Agno, LangChain, LangGraph">
+  <img src="https://cdn.simpleicons.org/crewai" alt="CrewAI" title="CrewAI" width="32" height="32" />
+  <img src="https://github.com/user-attachments/assets/dee3f6dc-962b-4417-9b3b-ec780aba30c0" alt="Agno" title="Agno" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" title="LangChain" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/langgraph" alt="LangGraph" title="LangGraph" width="32" height="32" />
+</td>
+</tr>
+<tr>
+<td><b>AWS</b></td>
+<td aria-label="AWS: S3, Lambda, EC2, ECS, DynamoDB, SQS, SageMaker, Step Functions">
+  <img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjNTY5QTMxIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QW1hem9uIFMzPC90aXRsZT48cGF0aCBkPSJNMjAuOTEzIDEzLjE0N2wuMTItLjg5NWMuOTQ3LjU3NiAxLjI1OC45MjIgMS4zNTQgMS4wNzEtLjE2LjAzMS0uNTYyLjA0Ni0xLjQ3NC0uMTc2em0tMi4xNzQgNy45ODhhLjU0Ny41NDcgMCAwIDAtLjAwNS4wNzNjMCAuMDg0LS4yMDcuNDA1LTEuMTI0Ljc2OGExMC4yOCAxMC4yOCAwIDAgMS0xLjQzOC40MzJjLTEuNDA1LjMyNS0zLjEyOC41MDQtNC44NTMuNTA0LTQuNjEyIDAtNy40MTItMS4xODQtNy40MTItMS43MDRhLjU0Ny41NDcgMCAwIDAtLjAwNS0uMDczTDEuODEgNS42MDJjLjEzNS4wNzguMjguMTU0LjQzMi4yMjcuMDQyLjAyLjA4Ni4wMzguMTI4LjA1Ny4xMzQuMDYyLjI3Mi4xMjIuNDE3LjE4bC4xNzkuMDY5Yy4xNTQuMDU4LjMxNC4xMTQuNDc4LjE2OC4wNDMuMDEzLjA4NC4wMjkuMTMuMDQzLjIwNy4wNjUuNDIzLjEyNy42NDYuMTg3bC4xNzYuMDQ0Yy4xNzUuMDQ0LjM1My4wODcuNTM0LjEyN2EyMy40MTQgMjMuNDE0IDAgMCAwIC44NDMuMTdsLjEyMS4wMjNjLjI1Mi4wNDUuNTA4LjA4NS43NjguMTIyLjA3MS4wMTEuMTQ0LjAyLjIxNi4wMy4yLjAyNy40LjA1My42MDQuMDc3bC4yNC4wMjdjLjI0NS4wMjYuNDkuMDUuNzQuMDdsLjA4MS4wMDljLjI3NS4wMjIuNTUyLjA0LjgzLjA1NmwuMjMzLjAxMmMuMjEuMDEuNDIyLjAxOC42MzMuMDI1YTMzLjA4OCAzMy4wODggMCAwIDAgMi43OTUtLjAyNmwuMjMyLS4wMTFjLjI3OC0uMDE2LjU1NS0uMDM0LjgzLS4wNTZsLjA4LS4wMDhjLjI1LS4wMi40OTctLjA0NS43NDItLjA3MmwuMjM4LS4wMjZjLjIwNS0uMDI0LjQwOC0uMDUuNjA5LS4wNzcuMDctLjAxLjE0MS0uMDE5LjIxMS0uMDMuMjYxLS4wMzcuNTE5LS4wNzguNzcyLS4xMjJsLjExMS0uMDJjLjIxNS0uMDQuNDI3LS4wODIuNjM0LS4xMjVsLjIxMi0uMDQ3Yy4xODYtLjA0MS4zNjgtLjA4NS41NDYtLjEzbC4xNjYtLjA0MmMuMjI1LS4wNi40NDQtLjEyMi42NTQtLjE4OS4wNC0uMDEyLjA3Ny0uMDI2LjExNS0uMDM4YTEwLjYgMTAuNiAwIDAgMCAuNDkzLS4xNzNjLjA1OC0uMDIxLjExNC0uMDQ0LjE3LS4wNjYuMTUtLjA2LjI5My0uMTIuNDMtLjE4NS4wMzgtLjAxNy4wNzktLjAzNC4xMTYtLjA1Mi4xNTMtLjA3My4zLS4xNS40MzYtLjIyOGwtLjk3NiA3LjI0NWMtMi40ODgtLjc4LTUuODA1LTIuMjkyLTcuMzExLTNhMS4wOSAxLjA5IDAgMCAwLTEuMDg4LTEuMDg1Yy0uNiAwLTEuMDg4LjQ4OS0xLjA4OCAxLjA4OCAwIC42LjQ4OCAxLjA4OSAxLjA4OCAxLjA4OS4xOTYgMCAuMzc4LS4wNTYuNTM3LS4xNDggMS43Mi44MTIgNS4xNDQgMi4zNjcgNy43MTUgMy4xNXptLTcuNDItMjAuMDQ3YzUuNjc3IDAgOS42NzYgMS43NTkgOS43NSAyLjczNmwtLjAxNC4xMTNjLS4wMS4wMzMtLjAzMS4wNjctLjA0OC4xMDEtLjAxNS4wMjgtLjAyNi4wNTctLjA0Ny4wODctLjAyNC4wMzMtLjA1OC4wNjgtLjA5LjEwMi0uMDI4LjAzLS4wNTEuMDYtLjA4NC4wOS0uMDM4LjAzNS0uMDg3LjA3LS4xMzMuMTA1LS4wNC4wMy0uMDc0LjA2LS4xMTkuMDkxLS4wNTMuMDM2LS4xMTYuMDcxLS4xNzcuMTA3LS4wNS4wMy0uMDk1LjA2LS4xNS4wOS0uMDY4LjAzNi0uMTQ3LjA3My0uMjIyLjExLS4wNTkuMDI4LS4xMTQuMDU3LS4xNzcuMDg1LS4wODQuMDM4LS4xNzcuMDc0LS4yNjguMTExLS4wNjguMDI3LS4xMy4wNTQtLjIwMy4wODItLjA5Ny4wMzYtLjIwNS4wNzItLjMxLjEwNy0uMDc1LjAyNi0uMTQ4LjA1My0uMjI4LjA3OS0uMTExLjAzNS0uMjMzLjA2OS0uMzUuMTAzLS4wODUuMDI0LS4xNjUuMDUtLjI1My4wNzMtLjEyNC4wMzQtLjI1OC4wNjUtLjM4OS4wOTgtLjA5My4wMjItLjE4MS4wNDYtLjI3OC4wNjgtLjEzOS4wMzItLjI4Ny4wNjEtLjQzMy4wOTEtLjA5OC4wMi0uMTkxLjA0MS0uMjkzLjA2LS4xNTUuMDMtLjMyLjA1Ny0uNDgyLjA4NC0uMS4wMTgtLjE5OC4wMzYtLjMwMi4wNTItLjE2Ni4wMjYtLjM0Mi4wNDgtLjUxNS4wNzItLjExLjAxNC0uMjEzLjAzLS4zMjUuMDQ0LS4xODEuMDIzLS4zNzIuMDQxLS41Ni4wNi0uMTEuMDEyLS4yMTguMDI1LS4zMzIuMDM2LS4xODguMDE2LS4zODYuMDI5LS41OC4wNDMtLjEyMi4wMDktLjI0LjAyLS4zNjQuMDI4LS4yMDcuMDEyLS40MjIuMDItLjYzNS4wMjgtLjEyLjAwNS0uMjM0LjAxMi0uMzU0LjAxNmEzNS42MDUgMzUuNjA1IDAgMCAxLTIuMDY5IDBjLS4xMi0uMDA0LS4yMzQtLjAxMS0uMzUyLS4wMTYtLjIxNC0uMDA4LS40My0uMDE2LS42MzctLjAyOC0uMTIyLS4wMDgtLjIzOC0uMDItLjM2LS4wMjctLjE5NS0uMDE1LS4zOTQtLjAyOC0uNTg0LS4wNDQtLjExLS4wMS0uMjE1LS4wMjQtLjMyNC0uMDM1LS4xOS0uMDItLjM4NC0uMDM4LS41NjgtLjA2bC0uMzE1LS4wNDRjLS4xNzYtLjAyNC0uMzU1LS4wNDYtLjUyNS0uMDczLS4xLS4wMTUtLjE5Mi0uMDMzLS4yOS0uMDUtLjE2Ny0uMDI4LS4zMzUtLjA1NS0uNDk0LS4wODYtLjA5Ni0uMDE4LS4xODMtLjAzOC0uMjc2LS4wNTYtLjE1MS0uMDMyLS4zMDUtLjA2Mi0uNDUtLjA5NS0uMDktLjAyLS4xNzMtLjA0My0uMjYtLjA2NC0uMTM4LS4wMzQtLjI3Ny0uMDY3LS40MDctLjEwMi0uMDgyLS4wMjItLjE1Ny0uMDQ2LS4yMzUtLjA2OWExMS43NSAxMS43NSAwIDAgMS0uMzY4LS4xMDhjLS4wNzUtLjAyNC0uMTQxLS4wNDktLjIxMy0uMDczLS4xMS0uMDM3LS4yMjMtLjA3NS0uMzI1LS4xMTMtLjA2Ny0uMDI1LS4xMjUtLjA1MS0uMTg4LS4wNzctLjA5Ni0uMDM4LS4xOTUtLjA3Ni0uMjgyLS4xMTUtLjA2LS4wMjctLjExLS4wNTQtLjE2Ni0uMDgtLjA4LS4wMzktLjE2Mi0uMDc3LS4yMzMtLjExNi0uMDUyLS4wMjgtLjA5NC0uMDU1LS4xNDItLjA4NC0uMDYzLS4wMzgtLjEzLS4wNzUtLjE4NS0uMTEzLS4wNDMtLjAyOS0uMDc1LS4wNTgtLjExMy0uMDg2LS4wNDgtLjAzNy0uMDk4LS4wNzMtLjEzOS0uMTEtLjAzMi0uMDI5LS4wNTQtLjA1Ny0uMDgtLjA4Ny0uMDMzLS4wMzUtLjA2OS0uMDctLjA5My0uMTA0LS4wMi0uMDMtLjAzMS0uMDU4LS4wNDYtLjA4Ni0uMDE4LS4wMzUtLjAzOS0uMDY4LS4wNDktLjEwMmwtLjAxNS0uMTEzYy4wNzYtLjk3NyA0LjA3NC0yLjczNiA5Ljc0OC0yLjczNnptMTIuMTgyIDEyLjEyNGMtLjExOC0uNjI4LS44NC0xLjI5MS0yLjMxLTIuMTI4bC45NjMtNy4xNmEuNTMxLjUzMSAwIDAgMCAuMDA1LS4wNzNDMjIuMTYgMS41ODEgMTYuNDQ3IDAgMTEuMzIgMCA2LjE5NCAwIC40ODIgMS41ODEuNDgyIDMuODUxYS41OC41OCAwIDAgMCAuMDA1LjA3MkwyLjgxOSAyMS4yNWMuMDcxIDIuMDAyIDUuMjM2IDIuNzUgOC41IDIuNzUgMS44MDUgMCAzLjYxNS0uMTg4IDUuMDk4LS41MzEuNTk4LS4xMzggMS4xMzMtLjMgMS41OTItLjQ4IDEuMTgtLjQ2NyAxLjc4OS0xLjA1MyAxLjgxMy0xLjczOWwuOTQ1LTcuMDE4Yy41NTcuMTMxIDEuMDE2LjE5NyAxLjM4OS4xOTcuNTQgMCAuOTAyLS4xMzcgMS4xMzQtLjQxM2EuOTU2Ljk1NiAwIDAgMCAuMjEtLjgwNFoiLz48L3N2Zz4K" alt="S3" title="Amazon S3" width="32" height="32" />
+  <img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkY5OTAwIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QVdTIExhbWJkYTwvdGl0bGU+PHBhdGggZD0iTTQuOTg1NSAwYy0uMjk0MS4wMDMxLS41MzM1LjI0NjYtLjUzNC41NDgyTDQuNDQ2IDUuNDU2YzAgLjE0NTEuMDYuMjgzNS4xNTkuMzg5MWEuNTMyMi41MzIyIDAgMCAwIC4zODA2LjE1NjJoMy40MjgybDguMTk3IDE3LjY4MDVhLjUzNjUuNTM2NSAwIDAgMCAuNDg4NS4zMTgxaDUuODExYy4yOTY5IDAgLjU0MjYtLjI0NDguNTQyNi0uNTQ4MlYxOC41NDRjMC0uMzAzNS0uMjM5Mi0uNTQ4Mi0uNTQyNS0uNTQ4MmgtMi4wMTM4TDEyLjczOTQuMzE1M0MxMi42NDcuMTI0IDEyLjQ1NjQgMCAxMi4yNDUyIDBoLTcuMjU0Wm0uNTM5NyAxLjA5MDdoNi4zNjc4bDguMTYgMTcuNjgwNGEuNTM2NS41MzY1IDAgMCAwIC40ODg1LjMxODFoMS44MTc4djMuODE3M0gxNy40MzdMOS4yNDAyIDUuMjI2YS41MzYuNTM2IDAgMCAwLS40ODg1LS4zMThINS41MjIzWm0yLjAxMzcgOC4yMzY2Yy0uMjA5OC4wMDExLS4zOTM3LjExOTMtLjQ4NTcuMzA5NkwuNjAwMiAyMy4yMTMzYS41NTA2LjU1MDYgMCAwIDAgLjAzMTMuNTI4Mi41MzM0LjUzMzQgMCAwIDAgLjQ1NDQuMjVoNi4xNjlhLjU0NjguNTQ2OCAwIDAgMCAuNDk3LS4zMDk2bDMuMzgtNy4xNjZhLjU0MDUuNTQwNSAwIDAgMC0uMDAyOS0uNDY4Nkw4LjAzNiA5LjYzN2EuNTQ2OC41NDY4IDAgMCAwLS40OTQyLS4zMDk2Wm0uMDA1NyAxLjgwMzYgMi40ODggNS4xNTIyLTMuMTIxNCA2LjYyMDZIMS45NDY1WiIvPjwvc3ZnPgo=" alt="Lambda" title="AWS Lambda" width="32" height="32" />
+  <img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkY5OTAwIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QW1hem9uIEVDMjwvdGl0bGU+PHBhdGggZD0iTTYuNDI5IDE3LjU3MWgxMC43MTRWNi44NTdINi40Mjl2MTAuNzE0Wk0xOCA2Ljg1N2gxLjcxNHYuODU3SDE4VjkuNDNoMS43MTR2Ljg1N0gxOHYxLjI4NWgxLjcxNHYuODU4SDE4djEuNzE0aDEuNzE0VjE1SDE4djEuNzE0aDEuNzE0di44NTdIMTh2LjA1OWEuOC44IDAgMCAxLS43OTkuNzk5aC0uMDU4djEuNzE0aC0uODU3di0xLjcxNEgxNC41N3YxLjcxNGgtLjg1N3YtMS43MTRIMTIuNDN2MS43MTRoLS44NTh2LTEuNzE0SDkuODU3djEuNzE0SDl2LTEuNzE0SDcuMjg2djEuNzE0aC0uODU3di0xLjcxNEg2LjM3YS44LjggMCAwIDEtLjc5OS0uOHYtLjA1OEg0LjI4NnYtLjg1N0g1LjU3VjE1SDQuMjg2di0uODU3SDUuNTd2LTEuNzE0SDQuMjg2di0uODU4SDUuNTd2LTEuMjg1SDQuMjg2di0uODU3SDUuNTdWNy43MTRINC4yODZ2LS44NTdINS41N1Y2LjhhLjguOCAwIDAgMSAuOC0uNzk5aC4wNThWNC4yODZoLjg1N1Y2SDlWNC4yODZoLjg1N1Y2aDEuNzE0VjQuMjg2aC44NThWNmgxLjI4NVY0LjI4NmguODU3VjZoMS43MTVWNC4yODZoLjg1N1Y2aC4wNThhLjguOCAwIDAgMSAuNzk5Ljc5OXYuMDU4Wk0xMi40MjkgMjMuMDlhLjA1NC4wNTQgMCAwIDEtLjA1NC4wNTNILjkxYS4wNTMuMDUzIDAgMCAxLS4wNTMtLjA1M1YxMS42MjVjMC0uMDMuMDI0LS4wNTQuMDUzLS4wNTRoMi41MnYtLjg1N0guOTFhLjkxMS45MTEgMCAwIDAtLjkxLjkxVjIzLjA5YzAgLjUwMi40MDguOTEuOTEuOTFoMTEuNDY1YS45MS45MSAwIDAgMCAuOTEtLjkxVjIxaC0uODU2Wk0yNCAuOTF2MTEuNDY1YS45MS45MSAwIDAgMS0uOTEuOTFoLTIuNTJ2LS44NTZoMi41MTlhLjA1NC4wNTQgMCAwIDAgLjA1My0uMDU0Vi45MWEuMDUzLjA1MyAwIDAgMC0uMDUzLS4wNTNIMTEuNjI1YS4wNTMuMDUzIDAgMCAwLS4wNTQuMDUzdjIuNTJoLS44NTdWLjkxYzAtLjUwMi40MDktLjkxLjkxLS45MUgyMy4wOWEuOTEuOTEgMCAwIDEgLjkxLjkxWiIvPjwvc3ZnPgo=" alt="EC2" title="Amazon EC2" width="32" height="32" />
+  <img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkY5OTAwIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QW1hem9uIEVDUzwvdGl0bGU+PHBhdGggZD0ibTIxLjg5NSAxNS4yNTYtMy4zNjktMi4wMjFWOC40MjFhLjQyLjQyIDAgMCAwLS4yMDktLjM2NGwtNC44NDMtMi44MjVWMS4xNTlsOC40MiA0Ljk3NlptLjYzNS05LjcyNEwxMy4yNjcuMDZhLjQyMi40MjIgMCAwIDAtLjYzNS4zNjJ2NS4wNTNjMCAuMTUuMDguMjg4LjIwOC4zNjNsNC44NDQgMi44MjZ2NC44MWEuNDIuNDIgMCAwIDAgLjIwNS4zNjJsNC4yMSAyLjUyNmEuNDIuNDIgMCAwIDAgLjYzOC0uMzYxVjUuODk1YS40Mi40MiAwIDAgMC0uMjA3LS4zNjNaTTExLjk3NyAyMy4xbC05Ljg3Mi01LjI0OFY2LjEzNWw4LjQyMS00Ljk3NnY0LjA4NEw2LjA5IDguMDY2YS40MjIuNDIyIDAgMCAwLS4xOTUuMzU1djcuMTU4YS40Mi40MiAwIDAgMCAuMjI2LjM3M2w1LjY2NSAyLjk0OGEuNDIuNDIgMCAwIDAgLjM4NyAwbDUuNDk2LTIuODQgMy4zODIgMi4wMy05LjA3NCA1LjAxWm0xMC4xMzUtNS4zNTYtNC4yMS0yLjUyNmEuNDIuNDIgMCAwIDAtLjQxMS0uMDEzbC01LjUxIDIuODQ3LTUuMjQ0LTIuNzI5di02LjY3bDQuNDM2LTIuODI0YS40MjIuNDIyIDAgMCAwIC4xOTUtLjM1NVYuNDJhLjQyMS40MjEgMCAwIDAtLjYzNS0uMzYyTDEuNDcgNS41MzJhLjQyMS40MjEgMCAwIDAtLjIwNy4zNjN2MTIuMjFjMCAuMTU2LjA4Ni4yOTkuMjIzLjM3MmwxMC4yOTcgNS40NzRhLjQyMS40MjEgMCAwIDAgLjQwMS0uMDA0bDkuOTE1LTUuNDczYS40MjIuNDIyIDAgMCAwIC4wMTMtLjczWiIvPjwvc3ZnPgo=" alt="ECS" title="Amazon ECS" width="32" height="32" />
+  <img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjNDA1M0Q2IiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QW1hem9uIER5bmFtb0RCPC90aXRsZT48cGF0aCBkPSJNMTYuNjA2IDIwLjcwNXYtMi4zNzFjLTEuMjYzIDEuMDgyLTMuODg0IDEuNzk1LTcuMDY2IDEuNzk1LTMuMTg0IDAtNS44MDUtLjcxNC03LjA2OC0xLjc5N3YyLjM2OWMwIDEuMTY4IDIuOTAzIDIuNDcgNy4wNjggMi40NyA0LjE2IDAgNy4wNi0xLjMgNy4wNjYtMi40NjZ6bS4wMDEtNi43NjVsLjgxNy0uMDA1di4wMDVjMCAuNTE3LS4yNTguOTk4LS43NSAxLjQ0MS42MDEuNTQuNzUgMS4wNzEuNzUgMS40NDlhMTY2MS43IDE2NjEuNyAwIDAgMCAwIDMuODdjMCAxLjg4MS0zLjM4OSAzLjMtNy44ODQgMy4zLTQuNDcxIDAtNy44NDYtMS40MDQtNy44OC0zLjI3YTU4My4xMTkgNTgzLjExOSAwIDAgMS0uMDAzLTMuOTA5Yy4wMDEtLjM3NS4xNS0uOS43NDUtMS40MzctLjU5Mi0uNTM4LS43NDMtMS4wNjItLjc0Ni0xLjQzNXYtMy44OTJjLjAwMi0uMzc3LjE1My0uOTAzLjc0Ny0xLjQzOC0uNTkzLS41NC0uNzQ0LTEuMDYyLS43NDctMS40MzUgMC0xLjM1Ny0uMDAyLTIuNzM1LjAwMi0zLjg5N0MxLjY3NCAxLjQxMiA1LjA1NiAwIDkuNTQgMGMyLjE1OSAwIDQuMjMzLjM1NiA1LjY4OS45NzRsLS4zMTUuNzY2Yy0xLjM2LS41OC0zLjMxOS0uOTEtNS4zNzQtLjkxLTQuMTY1IDAtNy4wNjcgMS4zLTcuMDY3IDIuNDcgMCAxLjE2OCAyLjkwMiAyLjQ3IDcuMDY3IDIuNDcuMTE1IDAgLjIyMiAwIC4zMzQtLjAwNWwuMDMzLjgyOGMtLjEyMi4wMDYtLjI0NS4wMDYtLjM2Ny4wMDYtMy4xODQgMC01LjgwNS0uNzE0LTcuMDY4LTEuNzk4djIuMzhjLjAwNS40NS40NS44NDMuODIxIDEuMDkzIDEuMTE2LjczNiAzLjExNCAxLjIzOSA1LjM0IDEuMzQybC0uMDM3LjgyOWMtMi4yNTQtLjEwNS00LjIzLS41OS01LjUtMS4zMzItLjMxOC4yNDUtLjYyMy41NzMtLjYyMy45NTIgMCAxLjE2OCAyLjkwMiAyLjQ3IDcuMDY3IDIuNDcuNDExIDAgLjgxMi0uMDE0IDEuMjAzLS4wNDJsLjA2LjgyNmMtLjQxLjAzLS44MzMuMDQ1LTEuMjYzLjA0NS0zLjE4NCAwLTUuODA1LS43MTMtNy4wNjgtMS43OTd2Mi4zNjhjLjAwNS40NjIuNDQ5Ljg1NS44MjEgMS4xMDQgMS4yNzUuODQyIDMuNjcgMS4zNjYgNi4yNDcgMS4zNjZoLjE4MnYuODNIOS41NGMtMi42MiAwLTQuOTktLjUwNy02LjQ0NC0xLjM1OS0uMzE3LjI0NS0uNjIzLjU3NC0uNjIzLjk1NCAwIDEuMTY4IDIuOTAyIDIuNDcgNy4wNjcgMi40NyA0LjE1OSAwIDcuMDU4LTEuMjk4IDcuMDY2LTIuNDY1di0uMDA3YzAtLjM3Ny0uMzAzLS43MDUtLjYyLS45NDhhNS43MzIgNS43MzIgMCAwIDEtLjY2Mi4zMzZsLS4zMTYtLjc2NGMuMy0uMTI4LjU2LS4yNjYuNzc2LS40MTIuMzc2LS4yNTQuODIzLS42NTEuODIzLTEuMXptNC4zNzctNi45MTVoLTIuNzE3YS40MDYuNDA2IDAgMCAxLS4zMzItLjE3My40Mi40MiAwIDAgMS0uMDU1LS4zNzVsMS4yMDQtMy41OTdoLTUuNDAzbC0yLjU4MyA0Ljk3NGgyLjYyM2MuMTI4IDAgLjI0OC4wNi4zMjUuMTY0YS40MTguNDE4IDAgMCAxIC4wNjkuMzZsLTIuMjQ5IDguMzY1em0xLjI0OS0uMTI4bC0xMC44OSAxMS42MDhhLjQwOC40MDggMCAwIDEtLjQ5OC4wNzUuNDE4LjQxOCAwIDAgMS0uMTkyLS40NzFsMi41MzQtOS40MjZoLTIuNzY2YS40MDcuNDA3IDAgMCAxLS4zNDktLjIuNDE4LjQxOCAwIDAgMS0uMDEyLS40MDdsMy4wMTQtNS44MDRhLjQwOC40MDggMCAwIDEgLjM2LS4yMjJoNi4yMmMuMTMyIDAgLjI1Ni4wNjUuMzMyLjE3NGEuNDIyLjQyMiAwIDAgMSAuMDU1LjM3NGwtMS4yMDQgMy41OThoMy4xYy4xNjQgMCAuMzEuMDk5LjM3NS4yNTFhLjQyMi40MjIgMCAwIDEtLjA4LjQ1ek0zLjA4NSAyMC43MjNhOC4xMDcgOC4xMDcgMCAwIDAgMS43Mi43MmwuMjMzLS43OTRhNy4zMiA3LjMyIDAgMCAxLTEuNTQ2LS42NDV6bTEuNzItNS45ODRsLjIzMy0uNzk1YTcuMjYyIDcuMjYyIDAgMCAxLTEuNTQ2LS42NDZsLS40MDcuNzJhOC4wNTEgOC4wNTEgMCAwIDAgMS43Mi43MnptLTEuNzItNy40MjdsLjQwNy0uNzE5Yy40MTguMjQ0LjkzOS40NjIgMS41NDYuNjQ2bC0uMjMyLjc5NGE4LjA0NiA4LjA0NiAwIDAgMS0xLjcyLS43MloiLz48L3N2Zz4K" alt="DynamoDB" title="Amazon DynamoDB" width="32" height="32" />
+  <img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkY0RjhCIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QW1hem9uIFNRUzwvdGl0bGU+PHBhdGggZD0ibTcuMTY0IDEzLjU4IDEuMjg3LTEuMjdhLjQyNS40MjUgMCAwIDAgLjAwMi0uNjAzTDcuMTY2IDEwLjQybC0uNjA4LjYwMS41NTIuNTUySDUuMTQ3di44NTJoMS45N2wtLjU1Ny41NVptOS44Mi4wNCAxLjcxNS0xLjI4YS40MjcuNDI3IDAgMCAwIDAtLjY4MmwtMS43MTYtMS4yNzctLjUxNS42ODIuNjg2LjUxSDE1LjQ0di44NTNoMS43MTVsLS42ODYuNTExWk05Ljk0NSAxMmMwIC45MDUtLjE1NiAxLjc1OC0uNDQ5IDIuNWE3LjA3IDcuMDcgMCAwIDEgMi41MTEtLjQ0NWMuODcgMCAxLjc0LjE0OCAyLjUxLjQ0NWE2Ljg1NSA2Ljg1NSAwIDAgMS0uNDQ4LTIuNWMwLS45MDUuMTU3LTEuNzU3LjQ0OS0yLjUtMS41NDMuNTkzLTMuNDc5LjU5My01LjAyMiAwIC4yOTMuNzQzLjQ1IDEuNTk1LjQ1IDIuNVptLTIuMSA0LjEzNmEuNDI0LjQyNCAwIDAgMSAwLS42MDJjLjc3OC0uNzc0IDEuMjQzLTIuMDk1IDEuMjQzLTMuNTM0IDAtMS40MzktLjQ2NS0yLjc2LTEuMjQ0LTMuNTM0YS40MjQuNDI0IDAgMCAxIDAtLjYwMi40My40MyAwIDAgMSAuNjA3IDBjMS42NjIgMS42NSA1LjQ1IDEuNjUgNy4xMTMgMGEuNDMuNDMgMCAwIDEgLjczMi4zMDEuNDIuNDIgMCAwIDEtLjEyNi4zMDFjLS43NzguNzc0LTEuMjQzIDIuMDk1LTEuMjQzIDMuNTM0IDAgMS40MzkuNDY1IDIuNzYgMS4yNDMgMy41MzRhLjQyNC40MjQgMCAwIDEgMCAuNjAyLjQzLjQzIDAgMCAxLS42MDYgMGMtMS42NjItMS42NS01LjQ1MS0xLjY1LTcuMTEzIDBhLjQzLjQzIDAgMCAxLS42MDcgMFptMTUuMjk5LTQuMTM0YzAtLjM5Ny0uMTU1LS43Ny0uNDM4LTEuMDUxYTEuNDk1IDEuNDk1IDAgMCAwLTEuMDU4LS40MzVjLS4zODMgMC0uNzY2LjE0NS0xLjA1OC40MzVhMS40ODEgMS40ODEgMCAwIDAgMCAyLjEwMmMuNTgzLjU4IDEuNTMyLjU4IDIuMTE2IDAgLjI4My0uMjguNDM4LS42NTQuNDM4LTEuMDVabS4xNjggMS42NTRhMi4zNTQgMi4zNTQgMCAwIDEtMS42NjQuNjg0IDIuMzU0IDIuMzU0IDAgMCAxLTEuNjY0LS42ODQgMi4zMyAyLjMzIDAgMCAxIDAtMy4zMDggMi4zNjYgMi4zNjYgMCAwIDEgMy4zMjggMCAyLjMzIDIuMzMgMCAwIDEgMCAzLjMwOFpNMy44NSAxMi4wMTJhMS40OTEgMS40OTEgMCAwIDAtMS40OTYtMS40ODcgMS40OTMgMS40OTMgMCAwIDAtMS40OTYgMS40ODdjMCAuMzk3LjE1NS43Ny40MzcgMS4wNTEuNTY2LjU2MSAxLjU1MS41NjEgMi4xMTYgMCAuMjgzLS4yODEuNDM5LS42NTQuNDM5LTEuMDUxWm0uMTY4IDEuNjU0YTIuMzU0IDIuMzU0IDAgMCAxLTEuNjY1LjY4NCAyLjM1NSAyLjM1NSAwIDAgMS0xLjY2NC0uNjg0IDIuMzMyIDIuMzMyIDAgMCAxIDAtMy4zMDggMi4zNjcgMi4zNjcgMCAwIDEgMy4zMjkgMCAyLjMzIDIuMzMgMCAwIDEgMCAzLjMwOFptMTQuMzY3IDQuN2E5LjAzNCA5LjAzNCAwIDAgMS02LjQxIDIuNjM5IDkuMDMzIDkuMDMzIDAgMCAxLTYuNDEtMi42MzhjLTEuMTc1LTEuMTY2LTEuODItMi41Ni0yLjE1Ni0zLjUyNGwtLjgxLjI4Yy4zNjQgMS4wNDcgMS4wNyAyLjU2NiAyLjM2IDMuODQ2YTkuODg4IDkuODg4IDAgMCAwIDcuMDE2IDIuODg4IDkuODg4IDkuODg4IDAgMCAwIDcuMDE2LTIuODg4IDEwLjIzNCAxMC4yMzQgMCAwIDAgMi40My0zLjg0OGwtLjgxMi0uMjc2YTkuMzcgOS4zNyAwIDAgMS0yLjIyNCAzLjUyMlpNMy40MDcgOS4xNThsLS44MS0uMjhjLjUyLTEuNDg0IDEuMzU4LTIuODUxIDIuMzYzLTMuODQ5YTkuODg3IDkuODg3IDAgMCAxIDcuMDE0LTIuODg1IDkuODg1IDkuODg1IDAgMCAxIDcuMDE0IDIuODg1IDEwLjQ5NyAxMC40OTcgMCAwIDEgMi40MyAzLjg1bC0uODA5LjI3OWE5LjYyOCA5LjYyOCAwIDAgMC0yLjIyOCAzLjUyNiA5LjAzIDkuMDMgMCAwIDAtNi40MDcgMi42MzYgOS4wMyA5LjAzIDAgMCAwLTYuNDA4IDIuNjM2Yy0uOTE0LjkwOS0xLjY4MSAyLjE2MS0yLjE1OSAzLjUyNloiLz48L3N2Zz4K" alt="SQS" title="Amazon SQS" width="32" height="32" />
+</td>
+</tr>
+</table>
 
 ### Links
 🌐 **[Personal Website](https://erlonl.github.io/)**  
