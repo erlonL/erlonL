@@ -29,7 +29,7 @@ Bachelor's degree in Data Science & Artificial Intelligence (UFPB) and very inte
 </tr>
 <tr>
 <td><b>Web & Full-Stack</b></td>
-<td aria-label="Web and Full-Stack Development: Vue.js, React, FastAPI, Flask, Node.js, Express, REST APIs, HTML/CSS, responsive web development">
+<td aria-label="Web and Full-Stack Development: Vue.js, React, FastAPI, Flask, Node.js, Express, REST APIs, HTML/CSS, responsive web development, npm, pnpm, Bun">
   <img src="https://cdn.simpleicons.org/vuedotjs" alt="Vue.js" title="Vue.js" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/react" alt="React" title="React" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" title="FastAPI" width="32" height="32" />
@@ -38,6 +38,9 @@ Bachelor's degree in Data Science & Artificial Intelligence (UFPB) and very inte
   <img src="https://cdn.simpleicons.org/express" alt="Express" title="Express" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/html5" alt="HTML" title="HTML" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/css" alt="CSS" title="CSS" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/npm" alt="npm" title="npm" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/pnpm" alt="pnpm" title="pnpm" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/bun" alt="Bun" title="Bun" width="32" height="32" />
 </td>
 </tr>
 <tr>
@@ -53,8 +56,12 @@ Bachelor's degree in Data Science & Artificial Intelligence (UFPB) and very inte
 </tr>
 <tr>
 <td><b>Data Engineering & DBs</b></td>
-<td aria-label="Data Engineering and Databases: ETL/data pipelines, Airflow, web scraping, data extraction, data processing, MySQL, PostgreSQL, MongoDB, Redis, DuckDB, relational databases">
+<td aria-label="Data Engineering and Databases: ETL/data pipelines, Airflow, web scraping, Selenium, SeleniumBase, Playwright, BeautifulSoup, data extraction, data processing, MySQL, PostgreSQL, MongoDB, Redis, DuckDB, relational databases">
   <img src="https://cdn.simpleicons.org/apacheairflow" alt="Airflow" title="Airflow" width="32" height="32" />
+  <img src="https://cdn.simpleicons.org/selenium" alt="Selenium" title="Selenium" width="32" height="32" />
+  <img src="https://camo.githubusercontent.com/d381808151b9fa5444484e2c67de67825925a6ea496a5e7bfa11ebcf88c7df1d/68747470733a2f2f73656c656e69756d626173652e6769746875622e696f2f696d672f6c6f676f362e706e67" alt="SeleniumBase" title="SeleniumBase" width="32" height="32" />
+  <img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMkVBRDMzIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+UGxheXdyaWdodDwvdGl0bGU+PHBhdGggZD0iTTIzLjk5NiA3LjQ2MmMtLjA1Ni44MzctLjI1NyAyLjEzNS0uNzE2IDMuODUtLjk5NSAzLjcxNS00LjI3IDEwLjg3NC0xMC40MiA5LjIyNy02LjE1LTEuNjUtNS40MDctOS40ODctNC40MTItMTMuMjAxLjQ2LTEuNzE2LjkzNC0yLjk0IDEuMzA1LTMuNjk0LjQyLS44NTMuODQ2LS4yODkgMS44MTUuNTIzLjY4NC41NzMgMi40MSAxLjc5MSA1LjAxMSAyLjQ4OCAyLjYwMS42OTcgNC43MDYuNTA2IDUuNTgzLjM1MiAxLjI0NS0uMjE5IDEuODk3LS40OTQgMS44MzQuNDU1Wm0tOS44MDcgMy44NjNzLS4xMjctMS44MTktMS43NzMtMi4yODZjLTEuNjQ0LS40NjctMi42MTMgMS4wNC0yLjYxMyAxLjA0Wm00LjA1OCA0LjUzOS03Ljc2OS0yLjE3MnMuNDQ2IDIuMzA2IDMuMzM4IDMuMTUzYzIuODYyLjgzNiA0LjQzLS45OCA0LjQzLS45ODFabTIuNzAxLTIuNTFzLS4xMy0xLjgxOC0xLjc3My0yLjI4NmMtMS42NDQtLjQ2OS0yLjYxMiAxLjAzOC0yLjYxMiAxLjAzOFpNOC41NyAxOC4yM2MtNC43NDkgMS4yNzktNy4yNjEtNC4yMjQtOC4wMjEtNy4wOEMuMTk3IDkuODMxLjA0NCA4LjgzMi4wMDMgOC4xODhjLS4wNDctLjczLjQ1NS0uNTIgMS40MTUtLjM1NC42NzcuMTE4IDIuMy4yNjEgNC4zMDgtLjI4YTExLjI4IDExLjI4IDAgMCAwIDIuNDEtLjk1NmMtLjA1OC4xOTctLjExNC40LS4xNy42MS0uNDMzIDEuNjE4LS44MjcgNC4wNTUtLjYzMiA2LjQyNi0xLjk3Ni43MzItMi4yNjcgMi40MjMtMi4yNjcgMi40MjNsMi41MjQtLjcxNWMuMjI3IDEuMDAyLjYgMS45ODcgMS4xNSAyLjgzOGE1LjkxNCA1LjkxNCAwIDAgMS0uMTcxLjA0OVptLTQuMTg4LTYuMjk4YzEuMjY1LS4zMzMgMS4zNjMtMS42MzEgMS4zNjMtMS42MzFsLTMuMzc0Ljg4OHMuNzQ1IDEuMDc2IDIuMDEuNzQzWiIvPjwvc3ZnPg==" alt="Playwright" title="Playwright" width="32" height="32" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*UY8Ew9W6VR6wwnU9kavWvg.jpeg" alt="BeautifulSoup" title="BeautifulSoup" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" title="MySQL" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" width="32" height="32" />
   <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" title="MongoDB" width="32" height="32" />
