@@ -64,7 +64,7 @@ Bachelor's degree in Data Science & Artificial Intelligence (UFPB) and very inte
 **AI Agents & LLM**  
 <p align="left" aria-label="AI Agents and LLM: CrewAI, Agno, LangChain, LangGraph">
   <img src="https://cdn.simpleicons.org/crewai" alt="CrewAI" title="CrewAI" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/agno" alt="Agno" title="Agno" width="42" height="42" />
+  <img src="https://github.com/user-attachments/assets/dee3f6dc-962b-4417-9b3b-ec780aba30c0" alt="Agno" title="Agno" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" title="LangChain" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/langgraph" alt="LangGraph" title="LangGraph" width="42" height="42" />
 </p>
