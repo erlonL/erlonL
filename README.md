@@ -36,7 +36,7 @@ Bachelor's degree in Data Science & Artificial Intelligence (UFPB) and very inte
 **Data Science & AI**  
 <p align="left" aria-label="Data Science and AI: Pandas, Seaborn, scikit-learn, data analysis, data visualization, machine learning, deep learning, NLP, Transformers, Hugging Face, PyTorch">
   <img src="https://cdn.simpleicons.org/pandas" alt="Pandas" title="Pandas" width="42" height="42" />
-  <img src="https://cdn.simpleicons.org/seaborn" alt="Seaborn" title="Seaborn" width="42" height="42" />
+  <img src="https://github.com/user-attachments/assets/6abf628d-57f3-422c-bb25-65b4e5ab4631" alt="Seaborn" title="Seaborn" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit-learn" title="scikit-learn" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" title="PyTorch" width="42" height="42" />
   <img src="https://cdn.simpleicons.org/huggingface/FFCC4D" alt="Hugging Face" title="Hugging Face" width="42" height="42" />
