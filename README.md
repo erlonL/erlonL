@@ -107,8 +107,7 @@ Bachelor's degree in Data Science & Artificial Intelligence (UFPB) and very inte
 
 ### Links
 🌐 **[Personal Website](https://erlonl.github.io/)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/erlon-avelino/)**  
-📧 **[erlonlacerda1@gmail.com](mailto:erlonlacerda1@gmail.com)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/erlon-avelino/)**
 
 
 #### Projects I am proud of
