@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Want to get in touch? [Email me](mailto:erlonlacerda1@gmail.com).
+
 ## Hi, I'm Erlon Avelino
 Bachelor's degree in Data Science & Artificial Intelligence (UFPB) and very interested in Data & AI systems.
 
