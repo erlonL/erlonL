@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 340" role="img" aria-labelledby="title desc">
+  <title id="title">Breez</title><desc id="desc">Air quality and climate intelligence using NASA satellite data.</desc>
+  <style>@media (prefers-reduced-motion:reduce){.motion{display:none}}</style>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#CFF2FF"/><stop offset="1" stop-color="#F7FCFE"/></linearGradient>
+    <linearGradient id="earth" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3E9FC5"/><stop offset="1" stop-color="#226285"/></linearGradient>
+  </defs>
+  <rect width="580" height="340" rx="24" fill="#CFF2FF"/>
+  <circle cx="493" cy="85" r="115" fill="#FFF" opacity=".65"/>
+  <circle cx="493" cy="85" r="76" fill="url(#earth)"/>
+  <path d="M433 58q34-18 52 1t42-2q31 28 16 63-45 29-85 8t-25-70z" fill="#6CC29B" opacity=".9"/>
+  <path d="M397 126q95-57 190 0" fill="none" stroke="#EF8B57" stroke-width="2" opacity=".35"/>
+  <path class="motion" d="M397 126q95-57 190 0" fill="none" stroke="#EF8B57" stroke-width="4" stroke-dasharray="7 8">
+    <animate attributeName="stroke-dashoffset" from="0" to="-30" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="410" cy="119" r="6" fill="#EF8B57"/><circle cx="568" cy="115" r="6" fill="#EF8B57"/>
+  <text x="34" y="48" font-family="ui-monospace, monospace" font-size="13" letter-spacing="1.5" fill="#28749B">NASA SPACE APPS · 3RD PLACE</text>
+  <text x="32" y="102" font-family="Inter, system-ui, sans-serif" font-size="46" font-weight="750" fill="#164D68">Breez</text>
+  <text x="34" y="132" font-family="Inter, system-ui, sans-serif" font-size="17" fill="#467084">know the air around you</text>
+  <g transform="translate(34 170)" font-family="Inter, system-ui, sans-serif">
+    <rect width="215" height="108" rx="16" fill="#FFF" opacity=".92"/>
+    <text x="18" y="27" font-size="12" fill="#5A7A88">CURRENT AIR QUALITY</text>
+    <text x="17" y="72" font-size="39" font-weight="750" fill="#E3854E">AQI 42</text>
+    <text x="18" y="94" font-size="13" fill="#5C796E">good · low risk</text>
+  </g>
+  <g transform="translate(265 194)" fill="none" stroke="#3E9FC5" stroke-width="4" stroke-linecap="round">
+    <path d="M0 54c35-43 57 15 89-19s57 16 107-25" opacity=".35"/>
+    <path class="motion" d="M0 54c35-43 57 15 89-19s57 16 107-25" stroke-dasharray="18 9">
+      <animate attributeName="stroke-dashoffset" from="0" to="-54" dur="3.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text x="34" y="316" font-family="ui-monospace, monospace" font-size="13" fill="#2D6E89">TEMPO · DAYMET · FASTAPI · REACT · SATELLITE DATA</text>
+</svg>

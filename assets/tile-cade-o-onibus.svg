@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 340" role="img" aria-labelledby="title desc">
+  <title id="title">Cadê o Ônibus?</title>
+  <desc id="desc">A calm, accessible arrival experience for João Pessoa using the product's paper, green, and yellow design system.</desc>
+  <style>@media (prefers-reduced-motion:reduce){.motion{display:none}}</style>
+  <rect width="580" height="340" rx="24" fill="#F5F1E8"/>
+  <g fill="none" stroke="#0B7655" stroke-opacity=".15" stroke-width="3">
+    <path d="M-22 218h156c48 0 58-28 106-28h117c49 0 56 28 109 28h132"/>
+    <path d="M449-20v94c0 42-42 52-42 96v183"/>
+  </g>
+  <path class="motion" d="M-22 218h156c48 0 58-28 106-28h117c49 0 56 28 109 28h132" fill="none" stroke="#0B7655" stroke-width="3" stroke-linecap="round" stroke-dasharray="4 14">
+    <animate attributeName="stroke-dashoffset" from="0" to="-36" dur="3s" repeatCount="indefinite"/>
+  </path>
+
+  <g transform="translate(28 28)" font-family="'Atkinson Hyperlegible Next', 'Atkinson Hyperlegible', Inter, system-ui, sans-serif">
+    <rect width="38" height="38" rx="9" fill="#0B7655"/>
+    <path d="M10 9h18a4 4 0 0 1 4 4v15a3 3 0 0 1-3 3h-1v3h-5v-3h-8v3h-5v-3H9a3 3 0 0 1-3-3V13a4 4 0 0 1 4-4Zm2 6v8h14v-8H12Zm2 13a2 2 0 1 0 0-4 2 2 0 0 0 0 4Zm10 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z" fill="#FFFDF8"/>
+    <text x="51" y="27" font-size="21" font-weight="760" fill="#18312F">Cadê o Ônibus?</text>
+    <text x="0" y="101" font-size="28" font-weight="760" fill="#18312F">Saiba quando seu</text>
+    <text x="0" y="143" font-size="28" font-weight="760" fill="#0B7655">ônibus chega.</text>
+  </g>
+
+  <g transform="translate(322 174)" font-family="'Atkinson Hyperlegible Next', 'Atkinson Hyperlegible', Inter, system-ui, sans-serif">
+    <rect width="222" height="106" rx="14" fill="#FFFDF8" stroke="#D5D8CD" stroke-width="2"/>
+    <rect x="16" y="17" width="58" height="36" rx="7" fill="#075841"/>
+    <text x="45" y="42" text-anchor="middle" font-size="18" font-weight="800" fill="#FFF">103</text>
+    <text x="203" y="42" text-anchor="end" font-size="26" font-weight="800" fill="#18312F">6 min</text>
+    <circle cx="22" cy="76" r="5" fill="#14A36F"/>
+    <circle class="motion" cx="22" cy="76" r="5" fill="none" stroke="#F0C84B" stroke-width="2"><animate attributeName="r" values="5;11;5" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="36" y="81" font-size="13" fill="#506562">GPS recente · chegando</text>
+  </g>
+
+  <g transform="translate(28 257)" font-family="'Atkinson Hyperlegible Next', 'Atkinson Hyperlegible', Inter, system-ui, sans-serif" font-size="12" font-weight="700" fill="#506562">
+    <circle cx="6" cy="-4" r="5" fill="#0B7655"/><text x="18">GRÁTIS</text>
+    <circle cx="91" cy="-4" r="5" fill="#0B7655"/><text x="103">SEM ANÚNCIOS</text>
+    <circle cx="224" cy="-4" r="5" fill="#0B7655"/><text x="236">ACESSÍVEL</text>
+  </g>
+  <text x="28" y="317" font-family="ui-monospace, monospace" font-size="11" fill="#506562">REACT · MAPLIBRE · CLOUDFLARE WORKERS · D1 · PWA</text>
+</svg>

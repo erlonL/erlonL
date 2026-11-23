@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 340" role="img" aria-labelledby="title desc">
+  <title id="title">Além das Palavras</title><desc id="desc">Browser-based persuasive technique detection in Portuguese with BERT-Tiny.</desc>
+  <style>@media (prefers-reduced-motion:reduce){.motion{display:none}}</style>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17132F"/><stop offset="1" stop-color="#3B1E52"/></linearGradient></defs>
+  <rect width="580" height="340" rx="24" fill="#17132F"/>
+  <circle cx="515" cy="46" r="92" fill="#FFB35C" opacity=".13"/>
+  <text x="34" y="48" font-family="ui-monospace, monospace" font-size="13" letter-spacing="1.5" fill="#F6B565">NLP · PUBLISHED RESEARCH</text>
+  <text x="32" y="98" font-family="Georgia, serif" font-size="35" font-weight="700" fill="#FFF8E9">Além das Palavras</text>
+  <text x="34" y="128" font-family="Inter, system-ui, sans-serif" font-size="17" fill="#D8CEE2">persuasion, made visible</text>
+  <g transform="translate(34 158)" font-family="Inter, system-ui, sans-serif" font-size="14">
+    <rect width="512" height="122" rx="14" fill="#FFF9ED" opacity=".97"/>
+    <rect class="motion" x="19" y="16" width="5" height="68" rx="2" fill="#FFB35C" opacity=".3">
+      <animate attributeName="x" values="19;448;19" dur="3.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;.32;.32;0" dur="3.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="18" y="19" width="314" height="8" rx="4" fill="#A8A0AF"/>
+    <rect x="18" y="39" width="446" height="8" rx="4" fill="#D0C9D1"/>
+    <rect x="18" y="59" width="167" height="20" rx="5" fill="#FFD08A"/>
+    <rect x="189" y="59" width="239" height="8" rx="4" fill="#D0C9D1"/>
+    <rect x="18" y="91" width="174" height="20" rx="10" fill="#6B3FA0"/><text x="32" y="106" fill="#FFF">APELO À EMOÇÃO · 92%</text>
+    <circle cx="480" cy="98" r="9" fill="#50C8B4"/>
+  </g>
+  <text x="34" y="316" font-family="ui-monospace, monospace" font-size="13" fill="#BFB2C9">BERT-TINY · ONNX · WEBGPU/WASM · PRIVATE BY DESIGN</text>
+</svg>

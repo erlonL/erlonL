@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Municipal Accounting Analysis via WhatsApp AI</title>
+  <desc id="desc">A private implementation that turns municipal accounting questions into verified answers, tables, downloads, and animated charts.</desc>
+  <style>
+    .base-bars{opacity:.2}@media (prefers-reduced-motion:reduce){.motion{display:none}.base-bars{opacity:1}}
+  </style>
+  <defs><filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#081D19" flood-opacity=".22"/></filter></defs>
+  <rect width="1200" height="430" rx="28" fill="#0B2923"/>
+  <circle cx="1115" cy="-10" r="200" fill="#2FB485" opacity=".15"/><circle cx="1015" cy="435" r="185" fill="#E7B35C" opacity=".10"/>
+  <text x="58" y="62" font-family="ui-monospace, monospace" font-size="15" letter-spacing="2" fill="#66D5AE">OTHER WORK</text>
+  <text x="56" y="126" font-family="Inter, system-ui, sans-serif" font-size="44" font-weight="750" fill="#FFF9EA">Municipal accounting,</text>
+  <text x="56" y="178" font-family="Inter, system-ui, sans-serif" font-size="44" font-weight="750" fill="#FFF9EA">asked in plain language.</text>
+  <text x="59" y="222" font-family="Inter, system-ui, sans-serif" font-size="20" fill="#BFD8CF">Text or voice in. Verified answers, tables, and charts out.</text>
+  <g transform="translate(59 265)" font-family="ui-monospace, monospace" font-size="13">
+    <rect width="112" height="38" rx="19" fill="#2FB485"/><text x="30" y="24" fill="#06241E">WHATSAPP</text>
+    <rect x="122" width="100" height="38" rx="19" fill="#E7B35C"/><text x="153" y="24" fill="#182B25">VOICE</text>
+    <rect x="232" width="103" height="38" rx="19" fill="#9FD7C3"/><text x="260" y="24" fill="#182B25">TABLES</text>
+    <rect x="345" width="103" height="38" rx="19" fill="#F1D49D"/><text x="372" y="24" fill="#182B25">CHARTS</text>
+  </g>
+  <text x="59" y="374" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="700" fill="#66D5AE">READ THE PUBLIC CASE STUDY  ↗</text>
+
+  <g transform="translate(700 48)" filter="url(#shadow)">
+    <rect width="432" height="334" rx="24" fill="#F8F4E9"/><rect width="432" height="54" rx="24" fill="#E9E2D1"/>
+    <circle cx="28" cy="27" r="9" fill="#2FB485"/><text x="49" y="33" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="700" fill="#244139">accounting assistant</text>
+    <g transform="translate(25 78)" font-family="Inter, system-ui, sans-serif">
+      <rect x="88" width="294" height="53" rx="17" fill="#D6ECDF"/><text x="108" y="22" font-size="12" fill="#5A746B">QUESTION</text><text x="108" y="42" font-size="14" fill="#223F36">Compare monthly spending by function.</text>
+      <rect y="70" width="352" height="178" rx="17" fill="#FFF" stroke="#D9D2C4"/><text x="18" y="94" font-size="12" fill="#667871">GENERATED ANALYSIS</text>
+      <line x1="46" y1="213" x2="328" y2="213" stroke="#D7D0C2"/><line x1="46" y1="126" x2="46" y2="213" stroke="#D7D0C2"/>
+      <g class="base-bars"><g fill="#2FB485"><rect x="64" y="168" width="26" height="45" rx="3"/><rect x="104" y="144" width="26" height="69" rx="3"/><rect x="144" y="156" width="26" height="57" rx="3"/><rect x="184" y="126" width="26" height="87" rx="3"/></g><g fill="#E7B35C"><rect x="216" y="151" width="26" height="62" rx="3"/><rect x="256" y="137" width="26" height="76" rx="3"/><rect x="296" y="161" width="26" height="52" rx="3"/></g></g>
+      <g class="motion">
+        <rect x="64" y="168" width="26" height="45" rx="3" fill="#2FB485"><animate attributeName="y" values="213;213;168;168" keyTimes="0;.05;.23;1" dur="5s" repeatCount="indefinite"/><animate attributeName="height" values="0;0;45;45" keyTimes="0;.05;.23;1" dur="5s" repeatCount="indefinite"/></rect>
+        <rect x="104" y="144" width="26" height="69" rx="3" fill="#2FB485"><animate attributeName="y" values="213;213;144;144" keyTimes="0;.14;.32;1" dur="5s" repeatCount="indefinite"/><animate attributeName="height" values="0;0;69;69" keyTimes="0;.14;.32;1" dur="5s" repeatCount="indefinite"/></rect>
+        <rect x="144" y="156" width="26" height="57" rx="3" fill="#2FB485"><animate attributeName="y" values="213;213;156;156" keyTimes="0;.23;.41;1" dur="5s" repeatCount="indefinite"/><animate attributeName="height" values="0;0;57;57" keyTimes="0;.23;.41;1" dur="5s" repeatCount="indefinite"/></rect>
+        <rect x="184" y="126" width="26" height="87" rx="3" fill="#2FB485"><animate attributeName="y" values="213;213;126;126" keyTimes="0;.32;.50;1" dur="5s" repeatCount="indefinite"/><animate attributeName="height" values="0;0;87;87" keyTimes="0;.32;.50;1" dur="5s" repeatCount="indefinite"/></rect>
+        <rect x="216" y="151" width="26" height="62" rx="3" fill="#E7B35C"><animate attributeName="y" values="213;213;151;151" keyTimes="0;.41;.59;1" dur="5s" repeatCount="indefinite"/><animate attributeName="height" values="0;0;62;62" keyTimes="0;.41;.59;1" dur="5s" repeatCount="indefinite"/></rect>
+        <rect x="256" y="137" width="26" height="76" rx="3" fill="#E7B35C"><animate attributeName="y" values="213;213;137;137" keyTimes="0;.50;.68;1" dur="5s" repeatCount="indefinite"/><animate attributeName="height" values="0;0;76;76" keyTimes="0;.50;.68;1" dur="5s" repeatCount="indefinite"/></rect>
+        <rect x="296" y="161" width="26" height="52" rx="3" fill="#E7B35C"><animate attributeName="y" values="213;213;161;161" keyTimes="0;.59;.77;1" dur="5s" repeatCount="indefinite"/><animate attributeName="height" values="0;0;52;52" keyTimes="0;.59;.77;1" dur="5s" repeatCount="indefinite"/></rect>
+      </g>
+      <circle cx="326" cy="95" r="7" fill="#2FB485"/><text x="303" y="99" font-size="11" text-anchor="end" fill="#65756F">ready</text>
+    </g>
+  </g>
+</svg>

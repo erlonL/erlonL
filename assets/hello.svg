@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Erlon Avelino — Data and AI Engineer</title>
+  <desc id="desc">A personal banner pairing Erlon's name and focus with an animated EA monogram surrounded by data, AI, product, and research.</desc>
+  <defs>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4fd1c5"/>
+      <stop offset="1" stop-color="#e6a15c"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .sans{font-family:Inter,Arial,sans-serif}
+      .mono{font-family:Consolas,monospace}
+      .label{font-size:12px;font-weight:700;letter-spacing:2.2px}
+      @media (prefers-reduced-motion:reduce){.orbiting{display:none}}
+    </style>
+  </defs>
+
+  <rect width="1200" height="340" rx="28" fill="#071a24"/>
+  <path d="M0 275C170 231 315 329 510 285S845 235 1200 297V340H0Z" fill="#0d3540" opacity=".42"/>
+  <circle cx="1150" cy="42" r="118" fill="#123944" opacity=".35"/>
+
+  <g class="sans">
+    <g transform="translate(56 48)">
+      <circle cx="6" cy="7" r="5" fill="#4fd1c5"/>
+      <text x="20" y="12" class="label" fill="#79e0d6">DATA &amp; AI ENGINEER</text>
+    </g>
+    <text x="54" y="136" fill="#f5faf8" font-size="62" font-weight="760">Erlon Avelino</text>
+    <text x="57" y="185" fill="#c8d8da" font-size="24" font-weight="430">I turn messy data into useful products.</text>
+
+    <g transform="translate(56 230)">
+      <g>
+        <rect width="142" height="36" rx="18" fill="#103c45" stroke="#285863"/>
+        <text x="71" y="23" text-anchor="middle" fill="#dce9e9" font-size="13" font-weight="650">DATA SYSTEMS</text>
+      </g>
+      <g transform="translate(154)">
+        <rect width="118" height="36" rx="18" fill="#103c45" stroke="#285863"/>
+        <text x="59" y="23" text-anchor="middle" fill="#dce9e9" font-size="13" font-weight="650">APPLIED AI</text>
+      </g>
+      <g transform="translate(284)">
+        <rect width="132" height="36" rx="18" fill="#103c45" stroke="#285863"/>
+        <text x="66" y="23" text-anchor="middle" fill="#dce9e9" font-size="13" font-weight="650">PRODUCTS</text>
+      </g>
+    </g>
+  </g>
+
+  <line x1="548" y1="47" x2="548" y2="293" stroke="#28505a"/>
+
+  <g transform="translate(871 170)" class="sans">
+    <ellipse rx="245" ry="121" fill="none" stroke="#244852" stroke-width="1.5" stroke-dasharray="4 7"/>
+    <ellipse rx="164" ry="137" fill="none" stroke="#1b414b" transform="rotate(-25)"/>
+    <circle r="87" fill="#0c2c36" stroke="url(#ring)" stroke-width="2"/>
+    <circle r="72" fill="none" stroke="#27505a"/>
+    <text y="18" text-anchor="middle" fill="#f5faf8" font-size="60" font-weight="760">EA</text>
+    <text y="48" text-anchor="middle" class="mono" fill="#8fb0b5" font-size="10" letter-spacing="2">END-TO-END</text>
+
+    <g class="label">
+      <g transform="translate(-248 -5)">
+        <rect x="-3" y="-17" width="94" height="29" rx="14.5" fill="#0e3039" stroke="#28515a"/>
+        <text x="44" y="3" text-anchor="middle" fill="#bcd0d2" font-size="10">DATA</text>
+      </g>
+      <g transform="translate(172 -91)">
+        <rect x="-3" y="-17" width="67" height="29" rx="14.5" fill="#0e3039" stroke="#28515a"/>
+        <text x="30" y="3" text-anchor="middle" fill="#bcd0d2" font-size="10">AI</text>
+      </g>
+      <g transform="translate(172 96)">
+        <rect x="-3" y="-17" width="98" height="29" rx="14.5" fill="#0e3039" stroke="#28515a"/>
+        <text x="46" y="3" text-anchor="middle" fill="#bcd0d2" font-size="10">PRODUCT</text>
+      </g>
+      <g transform="translate(-70 137)">
+        <rect x="-3" y="-17" width="108" height="29" rx="14.5" fill="#0e3039" stroke="#28515a"/>
+        <text x="51" y="3" text-anchor="middle" fill="#bcd0d2" font-size="10">RESEARCH</text>
+      </g>
+    </g>
+
+    <circle class="orbiting" r="6" fill="#f2ae65" filter="url(#glow)">
+      <animateMotion dur="7s" repeatCount="indefinite" path="M245 0A245 121 0 1 1-245 0A245 121 0 1 1 245 0"/>
+    </circle>
+    <circle class="orbiting" r="4" fill="#4fd1c5">
+      <animateMotion dur="9s" begin="-4s" repeatCount="indefinite" path="M0-137A164 137 -25 1 1 0 137A164 137 -25 1 1 0-137"/>
+    </circle>
+  </g>
+</svg>
